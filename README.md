@@ -1,6 +1,6 @@
-um sistema de gerenciamento via linha de comando (CLI) desenvolvido em Python para otimizar as operações básicas de um posto de combustíveis. Este projeto foi estruturado de forma modular para facilitar a manutenção e escalabilidade, simulando um ambiente real de controle de estoque, clientes e vendas.
+Um sistema de gerenciamento via linha de comando (CLI) desenvolvido em Python para otimizar as operações básicas de um posto de combustíveis. Este projeto foi estruturado de forma modular para facilitar a manutenção e escalabilidade, simulando um ambiente real de controle de estoque, clientes e vendas.
 
-🚀 Funcionalidades
+Funcionalidades
 O sistema é dividido em quatro pilares principais:
 
 Gestão de Produtos: Cadastro, listagem, pesquisa e alteração de combustíveis, com controle rigoroso de preço e litragem em estoque.
@@ -17,7 +17,7 @@ Lógica de Desconto: Aplicação de 10% de desconto para pagamentos via Pix, Din
 
 Interface Intuitiva: Menu interativo via terminal com navegação simples e direta.
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 Python 3.10+: Utilização de match-case para um fluxo de controle mais limpo e legível.
 
 Modularização: Divisão do código em diferentes arquivos (main.py, combustivel.py, pagamento.py) seguindo boas práticas de organização.
